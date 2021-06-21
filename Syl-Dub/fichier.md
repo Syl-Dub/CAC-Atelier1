@@ -11,3 +11,8 @@
 ...
 Je suis du code
 ...
+### Ceci est une image
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github fork")  
+
+### Ma propre image
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
